@@ -1,0 +1,124 @@
+body {
+  background-color: black ;
+  font-family:'Open Sans', sans-serif;
+  color:#388E3C;
+  font-size:14px;
+  line-height:1.6em;
+}
+
+div{
+  display: block;
+}
+
+h1 {
+  font-family: 'Cedarville Cursive', cursive;
+  color:#23516d;
+  font-size:30px;
+  line-height:1.6em;
+}
+h2{
+  font-family: 'Calligraffitti', cursive;
+  color:#23516d;
+  font-size:15px;
+  line-height:1.6em;
+}
+h7{
+  font-family: 'Calligraffitti', cursive;
+  color:#23516d;
+  font-size:30px;
+  line-height:1.6em;
+}
+h3, h4, h5 {
+  font-family:'Oxygen', sans-serif;
+  color:#21275A;
+  font-size:18px;
+  line-height:1.6em;
+}
+
+h11{
+  font-family: 'Archivo Narrow', sans-serif;
+  font-size:30px;
+  text-align: center;
+  color:white;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 4px;
+
+}
+
+p {
+  font-family: 'Archivo Narrow', sans-serif;
+  color:#333644;
+  font-size:15px;
+  line-height:1.6em;
+}
+
+ul {
+  background-color: ;
+  font-family:'Open Sans', sans-serif;
+  color:#8BC34A;
+  font-size:13px;
+  line-height:1.6em;
+}
+
+#img-circle {
+  border-radius: 25%;
+}
+
+
+.banner {
+    background: linear-gradient(rgba(0,0,0,-1.2), rgba(0,0,0,0.2)), url(images/girlgoneabroad.jpg) no-repeat center;
+    background-size: cover;
+    height: 550px;
+    margin: 0;
+}
+
+.profile {
+  background-color: white;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 4px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+
+.link {
+  background-color: floralwhite ;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 4px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+  text-align: center;
+
+}
+ul:hover {
+    background-color: yellow;
+}
+.movies {
+ background-color: white;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 4px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+
+.background {
+  background-color: floralwhite;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 4px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+.info {
+ background-color: white;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 4px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+
+#text-center {
+}
